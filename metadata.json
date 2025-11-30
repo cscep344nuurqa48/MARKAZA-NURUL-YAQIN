@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Nurul Yaqin Online Quran Academy",
+  "description": "A premier online platform for Quranic education featuring live classes, AI tutoring, and multi-language support (English, Arabic, Afaan Oromo).",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
